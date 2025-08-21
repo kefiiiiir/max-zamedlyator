@@ -18,3 +18,16 @@ https://github.com/kefiiiiir/max-zamedlyator/edit/main/README.md
 git clone https://github.com/kefiiiiir/max-zamedlyator.git
 cd max-blocker
 python max_blocker.py
+```
+
+## ⚡ Требования
+
+- Windows (для работы с firewall)
+- Python 3.x
+- Модули: `dnslib`, `dnspython`
+
+##🛠 Как использовать 
+- Подключите компьютер к интернету.
+- Запустите скрипт или .exe. Скрипт создаст локальный DNS-сервер и добавит firewall правила для блокировки MAX.
+- Создайте Wi-Fi хотспот на ПК с SSID (например, Sch00lWiFi).
+- Подключите устройства (телефоны, планшеты, ноутбуки) к вашему хотспоту. Скрипт начнёт блокировать MAX автоматически.

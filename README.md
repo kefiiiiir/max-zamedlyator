@@ -11,10 +11,10 @@ MAX Blocker — скрипт для блокировки всех запросо
 
 Вы можете скачать **готовый .exe файл** с релизов GitHub:  
 [Releases](https://github.com/yourusername/max-blocker/releases)
-
+https://github.com/kefiiiiir/max-zamedlyator/edit/main/README.md
 Или использовать скрипт на Python:
 
 ```bash
-git clone https://github.com/yourusername/max-blocker.git
+git clone https://github.com/kefiiiiir/max-zamedlyator.git
 cd max-blocker
 python max_blocker.py
